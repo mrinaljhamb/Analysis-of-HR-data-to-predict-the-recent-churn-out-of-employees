@@ -1,0 +1,21 @@
+-Count of people who left and who didn't (with and without work accident)
+			conclusion: Occurance of work accident is not a decisive factor to make people leave job as we can see the count of people who left and had a work accident is quite small as compared to those who stayed even after having work accident.
+					graph in support
+-Count of people who left and who didn't (with and without promotion)
+			conclusion:From the second hisogram it is quite clear that almost all of the senior employes who have left are those who weren't offered promotion in last 5 years.
+
+-Seprate density plots of people who have left and those who haven't left on the basis of their respective satisfaction level.
+-Seprate density plots of people who have left and those who haven't left on the basis of how they have been evaluated last time.
+
+-Count of people leaving of different departments.
+
+-Look for the proportions of people leaving with high, 	medium and low salary.(histogram)[color code on the basis of time spent in the company]
+ Density plot of people leving on the basis of there working hours.(color code on the basis of salary) 
+-Look for the proportions of people leaving even after getting promotion and those who left without geting it.[color code on the basis of time spent in the company]
+ Density plot of people leving on the basis of there working hours.(color code on the basis of promotion) 
+-Check for corelation between the promotion and salary.
+ Check for corelation between no. of projects and working hours.
+ check for corelation between promotion and time spent in the company.
+ check for corelation between salary and time spent on the company.
+-Look for the proportions of people leaving with and wihtout work accident.(histogram)
+ Look for the salary category of people who stayed even after the work accident.

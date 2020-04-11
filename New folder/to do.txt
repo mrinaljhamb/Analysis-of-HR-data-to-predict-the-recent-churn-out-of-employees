@@ -1,0 +1,3 @@
+logit model
+eda conclusion
+future scope

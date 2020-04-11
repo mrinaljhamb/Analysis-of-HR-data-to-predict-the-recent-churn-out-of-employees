@@ -1,0 +1,8 @@
+install.packages("ggplot2")
+library(ggplot2)
+library(datasets)
+data("women")
+View(women)
+g=ggplot(women,aes(height,weight))
+g+geom_point()
+summary(g)

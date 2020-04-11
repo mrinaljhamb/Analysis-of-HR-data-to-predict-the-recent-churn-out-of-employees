@@ -1,0 +1,4 @@
+time spent       promotion
+time spent       salary
+time spent	 salary				satisfaction level
+salary           average monthly working hours
